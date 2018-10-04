@@ -1,0 +1,6 @@
+data.mdb
+lock.mdb
+objectbox-windows-x64.dll
+.gradle
+buildd
+out
