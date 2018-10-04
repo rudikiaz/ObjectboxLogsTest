@@ -2,7 +2,7 @@
 This repository is a simple test that reproduce the strange logs that appear on Objectbox when updating indexes like "[WARN ] Skipped low-level close of cursor (write, TX #3 alive)"
 
 
-The content of the Test reproduces inserting of 100 Demo objects into his box
+The content of the test reproduces the inserting of 100 Demo objects into its box
 
 Just execute "gradlew test" and 200 logs will appear in format:
 [WARN ] Skipped low-level close of cursor (write, TX #103 alive)
